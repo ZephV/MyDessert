@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270248955732",
+    "firebase_url": "https://mydessert-2bf9f.firebaseio.com",
+    "project_id": "mydessert-2bf9f",
+    "storage_bucket": "mydessert-2bf9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270248955732:android:fc30aaf9a6f0d47f",
+        "android_client_info": {
+          "package_name": "contest.s1.studyjams.cn.mydessert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270248955732-vqhf34rriefu8o9uptj54hakpkbautk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "contest.s1.studyjams.cn.mydessert",
+            "certificate_hash": "8CD21829DE8E61A246C6A0E99251554920BE790E"
+          }
+        },
+        {
+          "client_id": "270248955732-htd4qou54mub3afdn56vi4362sioagqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy--paERb0jknwb72fxqfHT6BADlb99gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270248955732-htd4qou54mub3afdn56vi4362sioagqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
