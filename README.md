@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 概述
+本项目主要内容是展示各种甜品及其各种相关,使用语言为英语.
 
-You can use the [editor on GitHub](https://github.com/imthomaskwok/MyDessert/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我参加google study jams(GSJ)进阶的一个作品,也是我第一个上架app(上架于google play).由于我没有visa卡从而也没有google play的开发者账号,所以是由GSJ的相关人员帮忙协助上架的在此对其表示感谢.当时刚入门技术不够所以这个app很简陋没有什么技术含量,等有账号我再跟其申请转移给我并对其升级改造。PS:imthomaskwok是我的另外一个账号.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 项目基本
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+设计风格遵守material design设计,内容资料源于wiki
 
-```markdown
-Syntax highlighted code block
+**依赖**
+ - cardview 
+ - recycleview 
+ - gilde 
+ - firebase的analysis
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imthomaskwok/MyDessert/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
